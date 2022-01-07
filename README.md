@@ -2,7 +2,7 @@
 
 Esse projeto serve para relembrar os conveitos que aprendi no início dos estudos de JAVA. Com estrutura MVC prefento realizar um projeto com tela de Login e tela para um CRUD de Uusuário com tabela mostrando itens add cadastrado.
 Esse Projeto será feito por etapas e com tempo que eu dipor, segue abaixo qual etapa estarei:
-* 1 - Crud no teste e pessoa :point_up:
+* 1 - Crud no teste de pessoa :point_up:
 * 2 - Crud no teste de Telefone
 * 3 - Configuração da tela login
 * 4 - Realizar tratamento na tela de Login
